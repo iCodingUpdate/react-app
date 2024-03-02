@@ -1,5 +1,5 @@
 import "./styles.css";
-import axios from "axios";
+
 import Weather from "./Weather";
 
 export default function App() {
