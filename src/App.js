@@ -7,6 +7,7 @@ export default function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+      <p><a href="https://github.com/iCodingUpdate/react-app" title="GitHub" target="_blank">My GitHub repository</a></p>
     </div>
   );
 }

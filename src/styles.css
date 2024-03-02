@@ -11,4 +11,7 @@
     list-style: none;
     text-align: start;
   }
-  
+
+  p {
+    margin-top: 30px;
+  }
